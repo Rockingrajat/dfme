@@ -1,0 +1,9 @@
+torchvision
+numpy
+pillow
+scikit-learn
+matplotlib
+tqdm
+ipdb
+pytube
+moviepy
